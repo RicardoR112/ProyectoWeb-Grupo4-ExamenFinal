@@ -1,0 +1,1106 @@
+[13-Jun-2021 19:06:59 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:06:59 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:06:59 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:06:59 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:06:59 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:06:59 Europe/Berlin] id user es 2
+[13-Jun-2021 19:06:59 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:06:59 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:06:59 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:06:59 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:06:59 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:06:59 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:06:59 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:06:59 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:06:59 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:06:59 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:06:59 Europe/Berlin] id user es 2
+[13-Jun-2021 19:06:59 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:06:59 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:06:59 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:07:02 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:07:02 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:07:02 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:07:02 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:07:02 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:07:02 Europe/Berlin] id user es 2
+[13-Jun-2021 19:07:02 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:07:02 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:07:02 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:07:02 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:07:02 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:07:02 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:07:02 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:07:02 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:07:02 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:07:02 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:07:02 Europe/Berlin] id user es 2
+[13-Jun-2021 19:07:02 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:07:02 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:07:02 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:07:04 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:07:04 Europe/Berlin] APP::URL Inicial: controllers/listarticle.php
+[13-Jun-2021 19:07:04 Europe/Berlin] Existe el controlador -> requiriendo controllers/listarticle.php
+[13-Jun-2021 19:07:04 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:07:04 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:07:04 Europe/Berlin] id user es 2
+[13-Jun-2021 19:07:04 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:07:04 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:07:04 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:07:04 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:07:04 Europe/Berlin] isPublic()-> URL Obtenida es ->'listarticle'
+[13-Jun-2021 19:07:04 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:07:04 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:07:04 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:07:04 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:07:04 Europe/Berlin] isAuthorized() -> currentUrl: listarticle
+[13-Jun-2021 19:07:04 Europe/Berlin] id user es 2
+[13-Jun-2021 19:07:04 Europe/Berlin] AssistantDashboard::construct-> inicio de login
+[13-Jun-2021 19:07:04 Europe/Berlin] Render basico -> listarticle
+[13-Jun-2021 19:07:28 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:07:28 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:07:28 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:07:28 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:07:28 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:07:28 Europe/Berlin] id user es 2
+[13-Jun-2021 19:07:28 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:07:28 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:07:28 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:07:28 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:07:28 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:07:28 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:07:28 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:07:28 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:07:28 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:07:28 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:07:28 Europe/Berlin] id user es 2
+[13-Jun-2021 19:07:28 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:07:28 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:07:28 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:14:51 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:14:51 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:14:51 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:14:51 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:14:51 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:14:51 Europe/Berlin] id user es 2
+[13-Jun-2021 19:14:51 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:14:51 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:14:51 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:14:51 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:14:51 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:14:51 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:14:51 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:14:51 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:14:51 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:14:51 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:14:51 Europe/Berlin] id user es 2
+[13-Jun-2021 19:14:51 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:14:51 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:14:51 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:14:52 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:14:52 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[13-Jun-2021 19:14:52 Europe/Berlin] Errores::construct-> se inicio un error
+[13-Jun-2021 19:14:54 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:14:54 Europe/Berlin] APP::URL Inicial: controllers/listarticle.php
+[13-Jun-2021 19:14:54 Europe/Berlin] Existe el controlador -> requiriendo controllers/listarticle.php
+[13-Jun-2021 19:14:54 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:14:54 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:14:54 Europe/Berlin] id user es 2
+[13-Jun-2021 19:14:54 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:14:54 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:14:54 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:14:54 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:14:54 Europe/Berlin] isPublic()-> URL Obtenida es ->'listarticle'
+[13-Jun-2021 19:14:54 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:14:54 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:14:54 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:14:54 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:14:54 Europe/Berlin] isAuthorized() -> currentUrl: listarticle
+[13-Jun-2021 19:14:54 Europe/Berlin] id user es 2
+[13-Jun-2021 19:14:54 Europe/Berlin] AssistantDashboard::construct-> inicio de login
+[13-Jun-2021 19:14:54 Europe/Berlin] Render basico -> listarticle
+[13-Jun-2021 19:18:57 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:18:57 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:18:57 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:18:57 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:18:57 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:18:57 Europe/Berlin] id user es 2
+[13-Jun-2021 19:18:58 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:18:58 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:18:58 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:18:58 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:18:58 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:18:58 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:18:58 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:18:58 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:18:58 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:18:58 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:18:58 Europe/Berlin] id user es 2
+[13-Jun-2021 19:18:58 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:18:58 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:18:58 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:18:59 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:18:59 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:18:59 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:18:59 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:18:59 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:18:59 Europe/Berlin] id user es 2
+[13-Jun-2021 19:18:59 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:18:59 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:18:59 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:18:59 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:18:59 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:18:59 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:18:59 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:18:59 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:18:59 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:18:59 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:18:59 Europe/Berlin] id user es 2
+[13-Jun-2021 19:18:59 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:18:59 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:18:59 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:19:02 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:19:02 Europe/Berlin] APP::URL Inicial: controllers/listarticle.php
+[13-Jun-2021 19:19:02 Europe/Berlin] Existe el controlador -> requiriendo controllers/listarticle.php
+[13-Jun-2021 19:19:02 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:19:02 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:19:02 Europe/Berlin] id user es 2
+[13-Jun-2021 19:19:02 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:19:02 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:19:02 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:19:02 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:19:02 Europe/Berlin] isPublic()-> URL Obtenida es ->'listarticle'
+[13-Jun-2021 19:19:02 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:19:02 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:19:02 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:19:02 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:19:02 Europe/Berlin] isAuthorized() -> currentUrl: listarticle
+[13-Jun-2021 19:19:02 Europe/Berlin] id user es 2
+[13-Jun-2021 19:19:02 Europe/Berlin] AssistantDashboard::construct-> inicio de login
+[13-Jun-2021 19:19:02 Europe/Berlin] Render basico -> listarticle
+[13-Jun-2021 19:21:14 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:21:14 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:21:14 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:21:14 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:21:14 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:21:14 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:14 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:21:14 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:14 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:21:14 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:21:14 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:21:14 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:21:14 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:14 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:21:14 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:21:14 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:21:14 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:14 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:21:14 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:21:14 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:21:16 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:21:16 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:21:16 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:21:16 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:21:16 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:21:16 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:16 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:21:16 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:16 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:21:16 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:21:16 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:21:16 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:21:16 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:16 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:21:16 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:21:16 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:21:16 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:16 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:21:16 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:21:16 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:21:19 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:21:19 Europe/Berlin] APP::URL Inicial: controllers/listarticle.php
+[13-Jun-2021 19:21:19 Europe/Berlin] Existe el controlador -> requiriendo controllers/listarticle.php
+[13-Jun-2021 19:21:19 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:21:19 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:21:19 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:19 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:21:19 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:19 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:21:19 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:21:19 Europe/Berlin] isPublic()-> URL Obtenida es ->'listarticle'
+[13-Jun-2021 19:21:19 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:21:19 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:19 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:21:19 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:21:19 Europe/Berlin] isAuthorized() -> currentUrl: listarticle
+[13-Jun-2021 19:21:19 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:19 Europe/Berlin] AssistantDashboard::construct-> inicio de login
+[13-Jun-2021 19:21:19 Europe/Berlin] Render basico -> listarticle
+[13-Jun-2021 19:21:35 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:21:35 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:21:35 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:21:35 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:21:35 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:21:35 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:35 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:21:35 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:35 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:21:35 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:21:35 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:21:35 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:21:35 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:35 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:21:35 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:21:35 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:21:35 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:35 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:21:35 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:21:35 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:21:38 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:21:38 Europe/Berlin] APP::URL Inicial: controllers/newuser.php
+[13-Jun-2021 19:21:38 Europe/Berlin] Existe el controlador -> requiriendo controllers/newuser.php
+[13-Jun-2021 19:21:38 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:21:38 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:21:38 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:39 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:21:39 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:39 Europe/Berlin] Se obtuvo la pagina actual->newuser
+[13-Jun-2021 19:21:39 Europe/Berlin] Se retorno el valor->newuser
+[13-Jun-2021 19:21:39 Europe/Berlin] isPublic()-> URL Obtenida es ->'newuser'
+[13-Jun-2021 19:21:39 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:21:39 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:39 Europe/Berlin] Se obtuvo la pagina actual->newuser
+[13-Jun-2021 19:21:39 Europe/Berlin] Se retorno el valor->newuser
+[13-Jun-2021 19:21:39 Europe/Berlin] isAuthorized() -> currentUrl: newuser
+[13-Jun-2021 19:21:39 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:39 Europe/Berlin] Render basico -> newuser
+[13-Jun-2021 19:21:43 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:21:43 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:21:43 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:21:43 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:21:43 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:21:43 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:43 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:21:43 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:43 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:21:43 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:21:43 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:21:43 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:21:43 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:43 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:21:43 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:21:43 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:21:43 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:43 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:21:43 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:21:43 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:21:48 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:21:48 Europe/Berlin] APP::URL Inicial: controllers/listarticle.php
+[13-Jun-2021 19:21:48 Europe/Berlin] Existe el controlador -> requiriendo controllers/listarticle.php
+[13-Jun-2021 19:21:48 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:21:48 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:21:48 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:48 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:21:48 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:48 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:21:48 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:21:48 Europe/Berlin] isPublic()-> URL Obtenida es ->'listarticle'
+[13-Jun-2021 19:21:48 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:21:48 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:48 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:21:48 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:21:48 Europe/Berlin] isAuthorized() -> currentUrl: listarticle
+[13-Jun-2021 19:21:48 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:48 Europe/Berlin] AssistantDashboard::construct-> inicio de login
+[13-Jun-2021 19:21:48 Europe/Berlin] Render basico -> listarticle
+[13-Jun-2021 19:21:55 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:21:55 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[13-Jun-2021 19:21:55 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[13-Jun-2021 19:21:55 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:21:55 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:21:55 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:55 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:21:55 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:55 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:21:55 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:21:55 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[13-Jun-2021 19:21:55 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:21:55 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:21:55 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[13-Jun-2021 19:21:55 Europe/Berlin] Se retorno el valor->dashboard
+[13-Jun-2021 19:21:55 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[13-Jun-2021 19:21:55 Europe/Berlin] id user es 2
+[13-Jun-2021 19:21:55 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[13-Jun-2021 19:21:55 Europe/Berlin] Render basico -> dashboard
+[13-Jun-2021 19:21:55 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[13-Jun-2021 19:22:03 Europe/Berlin] Inicio de app web
+[13-Jun-2021 19:22:03 Europe/Berlin] APP::URL Inicial: controllers/listarticle.php
+[13-Jun-2021 19:22:03 Europe/Berlin] Existe el controlador -> requiriendo controllers/listarticle.php
+[13-Jun-2021 19:22:03 Europe/Berlin] Cree nueva sesion
+[13-Jun-2021 19:22:03 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[13-Jun-2021 19:22:03 Europe/Berlin] id user es 2
+[13-Jun-2021 19:22:03 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[13-Jun-2021 19:22:03 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:22:03 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:22:03 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:22:03 Europe/Berlin] isPublic()-> URL Obtenida es ->'listarticle'
+[13-Jun-2021 19:22:03 Europe/Berlin] isPublic()->pagina no es publica
+[13-Jun-2021 19:22:03 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[13-Jun-2021 19:22:03 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[13-Jun-2021 19:22:03 Europe/Berlin] Se retorno el valor->listarticle
+[13-Jun-2021 19:22:03 Europe/Berlin] isAuthorized() -> currentUrl: listarticle
+[13-Jun-2021 19:22:03 Europe/Berlin] id user es 2
+[13-Jun-2021 19:22:03 Europe/Berlin] AssistantDashboard::construct-> inicio de login
+[13-Jun-2021 19:22:03 Europe/Berlin] Render basico -> listarticle
+[14-Jun-2021 01:52:34 Europe/Berlin] Inicio de app web
+[14-Jun-2021 01:52:34 Europe/Berlin] APP::construct-> no hay controlador especificado
+[14-Jun-2021 01:52:34 Europe/Berlin] Cree nueva sesion
+[14-Jun-2021 01:52:34 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[14-Jun-2021 01:52:34 Europe/Berlin] id user es 2
+[14-Jun-2021 01:52:34 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[14-Jun-2021 01:52:34 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 01:52:34 Europe/Berlin] Se obtuvo la pagina actual->
+[14-Jun-2021 01:52:34 Europe/Berlin] Se retorno el valor->
+[14-Jun-2021 01:52:34 Europe/Berlin] isPublic()-> URL Obtenida es ->''
+[14-Jun-2021 01:52:34 Europe/Berlin] isPublic()->pagina publica
+[14-Jun-2021 01:52:34 Europe/Berlin] redirectDefaultSiteByRole()----> /dashboard
+[14-Jun-2021 01:52:34 Europe/Berlin] Location:http://localhost/app-proyecto/dashboard
+[14-Jun-2021 01:52:34 Europe/Berlin] Main::construct-> inicio de Main
+[14-Jun-2021 01:52:34 Europe/Berlin] APP::URL Inicial: controllers/main.php
+[14-Jun-2021 01:52:34 Europe/Berlin] Inicio de app web
+[14-Jun-2021 01:52:34 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[14-Jun-2021 01:52:34 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[14-Jun-2021 01:52:34 Europe/Berlin] Cree nueva sesion
+[14-Jun-2021 01:52:34 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[14-Jun-2021 01:52:34 Europe/Berlin] id user es 2
+[14-Jun-2021 01:52:34 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[14-Jun-2021 01:52:34 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 01:52:34 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[14-Jun-2021 01:52:34 Europe/Berlin] Se retorno el valor->dashboard
+[14-Jun-2021 01:52:34 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[14-Jun-2021 01:52:34 Europe/Berlin] isPublic()->pagina no es publica
+[14-Jun-2021 01:52:34 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 01:52:34 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[14-Jun-2021 01:52:34 Europe/Berlin] Se retorno el valor->dashboard
+[14-Jun-2021 01:52:34 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[14-Jun-2021 01:52:34 Europe/Berlin] id user es 2
+[14-Jun-2021 01:52:34 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[14-Jun-2021 01:52:34 Europe/Berlin] Render basico -> dashboard
+[14-Jun-2021 01:52:34 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[14-Jun-2021 01:52:35 Europe/Berlin] Inicio de app web
+[14-Jun-2021 01:52:35 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[14-Jun-2021 01:52:35 Europe/Berlin] Errores::construct-> se inicio un error
+[14-Jun-2021 01:52:38 Europe/Berlin] Inicio de app web
+[14-Jun-2021 01:52:38 Europe/Berlin] APP::URL Inicial: controllers/listarticle.php
+[14-Jun-2021 01:52:38 Europe/Berlin] Existe el controlador -> requiriendo controllers/listarticle.php
+[14-Jun-2021 01:52:38 Europe/Berlin] Cree nueva sesion
+[14-Jun-2021 01:52:38 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[14-Jun-2021 01:52:38 Europe/Berlin] id user es 2
+[14-Jun-2021 01:52:38 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[14-Jun-2021 01:52:38 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 01:52:38 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[14-Jun-2021 01:52:38 Europe/Berlin] Se retorno el valor->listarticle
+[14-Jun-2021 01:52:38 Europe/Berlin] isPublic()-> URL Obtenida es ->'listarticle'
+[14-Jun-2021 01:52:38 Europe/Berlin] isPublic()->pagina no es publica
+[14-Jun-2021 01:52:38 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 01:52:38 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[14-Jun-2021 01:52:38 Europe/Berlin] Se retorno el valor->listarticle
+[14-Jun-2021 01:52:38 Europe/Berlin] isAuthorized() -> currentUrl: listarticle
+[14-Jun-2021 01:52:38 Europe/Berlin] id user es 2
+[14-Jun-2021 01:52:38 Europe/Berlin] AssistantDashboard::construct-> inicio de login
+[14-Jun-2021 01:52:38 Europe/Berlin] Render basico -> listarticle
+[14-Jun-2021 01:52:43 Europe/Berlin] Inicio de app web
+[14-Jun-2021 01:52:43 Europe/Berlin] APP::URL Inicial: controllers/account.php
+[14-Jun-2021 01:52:43 Europe/Berlin] Existe el controlador -> requiriendo controllers/account.php
+[14-Jun-2021 01:52:43 Europe/Berlin] Cree nueva sesion
+[14-Jun-2021 01:52:43 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[14-Jun-2021 01:52:43 Europe/Berlin] id user es 2
+[14-Jun-2021 01:52:43 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[14-Jun-2021 01:52:43 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 01:52:43 Europe/Berlin] Se obtuvo la pagina actual->account
+[14-Jun-2021 01:52:43 Europe/Berlin] Se retorno el valor->account
+[14-Jun-2021 01:52:43 Europe/Berlin] isPublic()-> URL Obtenida es ->'account'
+[14-Jun-2021 01:52:43 Europe/Berlin] isPublic()->pagina no es publica
+[14-Jun-2021 01:52:43 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 01:52:43 Europe/Berlin] Se obtuvo la pagina actual->account
+[14-Jun-2021 01:52:43 Europe/Berlin] Se retorno el valor->account
+[14-Jun-2021 01:52:43 Europe/Berlin] isAuthorized() -> currentUrl: account
+[14-Jun-2021 01:52:43 Europe/Berlin] id user es 2
+[14-Jun-2021 01:52:43 Europe/Berlin] Cree nuevo user
+[14-Jun-2021 01:52:43 Europe/Berlin] Account::construct-> inicio de myAccountAssistant
+[14-Jun-2021 01:52:43 Europe/Berlin] Render basico -> account
+[14-Jun-2021 01:52:43 Europe/Berlin] Inicio de app web
+[14-Jun-2021 01:52:43 Europe/Berlin] Inicio de app web
+[14-Jun-2021 01:52:43 Europe/Berlin] APP::URL Inicial: controllers/images.php
+[14-Jun-2021 01:52:43 Europe/Berlin] Errores::construct-> se inicio un error
+[14-Jun-2021 01:52:43 Europe/Berlin] APP::URL Inicial: controllers/images.php
+[14-Jun-2021 01:52:43 Europe/Berlin] Errores::construct-> se inicio un error
+[14-Jun-2021 01:52:46 Europe/Berlin] Inicio de app web
+[14-Jun-2021 01:52:46 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[14-Jun-2021 01:52:46 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[14-Jun-2021 01:52:46 Europe/Berlin] Cree nueva sesion
+[14-Jun-2021 01:52:46 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[14-Jun-2021 01:52:46 Europe/Berlin] id user es 2
+[14-Jun-2021 01:52:46 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[14-Jun-2021 01:52:46 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 01:52:46 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[14-Jun-2021 01:52:46 Europe/Berlin] Se retorno el valor->dashboard
+[14-Jun-2021 01:52:46 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[14-Jun-2021 01:52:46 Europe/Berlin] isPublic()->pagina no es publica
+[14-Jun-2021 01:52:46 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 01:52:46 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[14-Jun-2021 01:52:46 Europe/Berlin] Se retorno el valor->dashboard
+[14-Jun-2021 01:52:46 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[14-Jun-2021 01:52:46 Europe/Berlin] id user es 2
+[14-Jun-2021 01:52:46 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[14-Jun-2021 01:52:46 Europe/Berlin] Render basico -> dashboard
+[14-Jun-2021 01:52:46 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[14-Jun-2021 02:02:28 Europe/Berlin] Inicio de app web
+[14-Jun-2021 02:02:28 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[14-Jun-2021 02:02:28 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[14-Jun-2021 02:02:28 Europe/Berlin] Cree nueva sesion
+[14-Jun-2021 02:02:28 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[14-Jun-2021 02:02:28 Europe/Berlin] id user es 2
+[14-Jun-2021 02:02:28 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[14-Jun-2021 02:02:28 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 02:02:28 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[14-Jun-2021 02:02:28 Europe/Berlin] Se retorno el valor->dashboard
+[14-Jun-2021 02:02:28 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[14-Jun-2021 02:02:28 Europe/Berlin] isPublic()->pagina no es publica
+[14-Jun-2021 02:02:28 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 02:02:28 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[14-Jun-2021 02:02:28 Europe/Berlin] Se retorno el valor->dashboard
+[14-Jun-2021 02:02:28 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[14-Jun-2021 02:02:28 Europe/Berlin] id user es 2
+[14-Jun-2021 02:02:28 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[14-Jun-2021 02:02:28 Europe/Berlin] Render basico -> dashboard
+[14-Jun-2021 02:02:28 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[14-Jun-2021 02:02:28 Europe/Berlin] Inicio de app web
+[14-Jun-2021 02:02:28 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[14-Jun-2021 02:02:28 Europe/Berlin] Errores::construct-> se inicio un error
+[14-Jun-2021 02:02:42 Europe/Berlin] Inicio de app web
+[14-Jun-2021 02:02:42 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[14-Jun-2021 02:02:42 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[14-Jun-2021 02:02:42 Europe/Berlin] Cree nueva sesion
+[14-Jun-2021 02:02:42 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[14-Jun-2021 02:02:42 Europe/Berlin] id user es 2
+[14-Jun-2021 02:02:42 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[14-Jun-2021 02:02:42 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 02:02:42 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[14-Jun-2021 02:02:42 Europe/Berlin] Se retorno el valor->dashboard
+[14-Jun-2021 02:02:42 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[14-Jun-2021 02:02:42 Europe/Berlin] isPublic()->pagina no es publica
+[14-Jun-2021 02:02:42 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 02:02:42 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[14-Jun-2021 02:02:42 Europe/Berlin] Se retorno el valor->dashboard
+[14-Jun-2021 02:02:42 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[14-Jun-2021 02:02:42 Europe/Berlin] id user es 2
+[14-Jun-2021 02:02:42 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[14-Jun-2021 02:02:42 Europe/Berlin] Render basico -> dashboard
+[14-Jun-2021 02:02:42 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[14-Jun-2021 02:02:42 Europe/Berlin] Inicio de app web
+[14-Jun-2021 02:02:42 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[14-Jun-2021 02:02:42 Europe/Berlin] Errores::construct-> se inicio un error
+[14-Jun-2021 02:02:47 Europe/Berlin] Inicio de app web
+[14-Jun-2021 02:02:47 Europe/Berlin] APP::URL Inicial: controllers/listarticle.php
+[14-Jun-2021 02:02:47 Europe/Berlin] Existe el controlador -> requiriendo controllers/listarticle.php
+[14-Jun-2021 02:02:47 Europe/Berlin] Cree nueva sesion
+[14-Jun-2021 02:02:47 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[14-Jun-2021 02:02:47 Europe/Berlin] id user es 2
+[14-Jun-2021 02:02:47 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[14-Jun-2021 02:02:47 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 02:02:47 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[14-Jun-2021 02:02:47 Europe/Berlin] Se retorno el valor->listarticle
+[14-Jun-2021 02:02:47 Europe/Berlin] isPublic()-> URL Obtenida es ->'listarticle'
+[14-Jun-2021 02:02:47 Europe/Berlin] isPublic()->pagina no es publica
+[14-Jun-2021 02:02:47 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 02:02:47 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[14-Jun-2021 02:02:47 Europe/Berlin] Se retorno el valor->listarticle
+[14-Jun-2021 02:02:47 Europe/Berlin] isAuthorized() -> currentUrl: listarticle
+[14-Jun-2021 02:02:47 Europe/Berlin] id user es 2
+[14-Jun-2021 02:02:47 Europe/Berlin] AssistantDashboard::construct-> inicio de login
+[14-Jun-2021 02:02:47 Europe/Berlin] Render basico -> listarticle
+[14-Jun-2021 02:04:23 Europe/Berlin] Inicio de app web
+[14-Jun-2021 02:04:23 Europe/Berlin] APP::construct-> no hay controlador especificado
+[14-Jun-2021 02:04:23 Europe/Berlin] Cree nueva sesion
+[14-Jun-2021 02:04:23 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[14-Jun-2021 02:04:23 Europe/Berlin] id user es 2
+[14-Jun-2021 02:04:23 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[14-Jun-2021 02:04:23 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 02:04:23 Europe/Berlin] Se obtuvo la pagina actual->
+[14-Jun-2021 02:04:23 Europe/Berlin] Se retorno el valor->
+[14-Jun-2021 02:04:23 Europe/Berlin] isPublic()-> URL Obtenida es ->''
+[14-Jun-2021 02:04:23 Europe/Berlin] isPublic()->pagina publica
+[14-Jun-2021 02:04:23 Europe/Berlin] redirectDefaultSiteByRole()----> /dashboard
+[14-Jun-2021 02:04:23 Europe/Berlin] Location:http://localhost/app-proyecto/dashboard
+[14-Jun-2021 02:04:23 Europe/Berlin] Main::construct-> inicio de Main
+[14-Jun-2021 02:04:23 Europe/Berlin] APP::URL Inicial: controllers/main.php
+[14-Jun-2021 02:04:23 Europe/Berlin] Inicio de app web
+[14-Jun-2021 02:04:23 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[14-Jun-2021 02:04:23 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[14-Jun-2021 02:04:23 Europe/Berlin] Cree nueva sesion
+[14-Jun-2021 02:04:23 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[14-Jun-2021 02:04:23 Europe/Berlin] id user es 2
+[14-Jun-2021 02:04:23 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[14-Jun-2021 02:04:23 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 02:04:23 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[14-Jun-2021 02:04:23 Europe/Berlin] Se retorno el valor->dashboard
+[14-Jun-2021 02:04:23 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[14-Jun-2021 02:04:23 Europe/Berlin] isPublic()->pagina no es publica
+[14-Jun-2021 02:04:23 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[14-Jun-2021 02:04:23 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[14-Jun-2021 02:04:23 Europe/Berlin] Se retorno el valor->dashboard
+[14-Jun-2021 02:04:23 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[14-Jun-2021 02:04:23 Europe/Berlin] id user es 2
+[14-Jun-2021 02:04:23 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[14-Jun-2021 02:04:23 Europe/Berlin] Render basico -> dashboard
+[14-Jun-2021 02:04:23 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[15-Jun-2021 15:10:58 Europe/Berlin] Inicio de app web
+[15-Jun-2021 15:10:58 Europe/Berlin] APP::construct-> no hay controlador especificado
+[15-Jun-2021 15:10:59 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 15:10:59 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 15:10:59 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 15:10:59 Europe/Berlin] Se obtuvo la pagina actual->
+[15-Jun-2021 15:10:59 Europe/Berlin] Se retorno el valor->
+[15-Jun-2021 15:10:59 Europe/Berlin] isPublic()-> URL Obtenida es ->''
+[15-Jun-2021 15:10:59 Europe/Berlin] isPublic()->pagina publica
+[15-Jun-2021 15:10:59 Europe/Berlin] Main::construct-> inicio de Main
+[15-Jun-2021 15:10:59 Europe/Berlin] APP::URL Inicial: controllers/main.php
+[15-Jun-2021 15:10:59 Europe/Berlin] Inicio de app web
+[15-Jun-2021 15:10:59 Europe/Berlin] Inicio de app web
+[15-Jun-2021 15:10:59 Europe/Berlin] Inicio de app web
+[15-Jun-2021 15:10:59 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[15-Jun-2021 15:10:59 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[15-Jun-2021 15:10:59 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 15:10:59 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 15:10:59 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[15-Jun-2021 15:10:59 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:13:57 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:13:57 Europe/Berlin] APP::URL Inicial: controllers/login.php
+[15-Jun-2021 16:13:57 Europe/Berlin] Existe el controlador -> requiriendo controllers/login.php
+[15-Jun-2021 16:13:57 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:13:57 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:13:57 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:13:57 Europe/Berlin] Se obtuvo la pagina actual->login
+[15-Jun-2021 16:13:57 Europe/Berlin] Se retorno el valor->login
+[15-Jun-2021 16:13:57 Europe/Berlin] isPublic()-> URL Obtenida es ->'login'
+[15-Jun-2021 16:13:57 Europe/Berlin] isPublic()->pagina publica
+[15-Jun-2021 16:13:57 Europe/Berlin] Login::construct-> inicio de login
+[15-Jun-2021 16:13:57 Europe/Berlin] Render basico -> login
+[15-Jun-2021 16:13:57 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:13:57 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[15-Jun-2021 16:13:57 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:13:57 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:13:57 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:13:57 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[15-Jun-2021 16:13:57 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[15-Jun-2021 16:13:57 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:13:57 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:14:11 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:14:11 Europe/Berlin] APP::URL Inicial: controllers/login.php
+[15-Jun-2021 16:14:11 Europe/Berlin] Existe el controlador -> requiriendo controllers/login.php
+[15-Jun-2021 16:14:11 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:14:11 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:14:11 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:14:11 Europe/Berlin] Se obtuvo la pagina actual->login
+[15-Jun-2021 16:14:11 Europe/Berlin] Se retorno el valor->login
+[15-Jun-2021 16:14:11 Europe/Berlin] isPublic()-> URL Obtenida es ->'login'
+[15-Jun-2021 16:14:11 Europe/Berlin] isPublic()->pagina publica
+[15-Jun-2021 16:14:11 Europe/Berlin] Login::construct-> inicio de login
+[15-Jun-2021 16:14:11 Europe/Berlin] APP:: ruta actual sin parametros -> authenticate
+[15-Jun-2021 16:14:11 Europe/Berlin] CONTROLLER::existPOST-> Existe el parametro email
+[15-Jun-2021 16:14:11 Europe/Berlin] CONTROLLER::existPOST-> Existe el parametro password
+[15-Jun-2021 16:14:11 Europe/Berlin] LoginModel::login() -> el row count es :1
+[15-Jun-2021 16:14:11 Europe/Berlin] LoginModel::login() -> return user == new User()
+[15-Jun-2021 16:14:11 Europe/Berlin] Accion exitosa, estas logeado
+[15-Jun-2021 16:14:11 Europe/Berlin] el rol ->admin
+[15-Jun-2021 16:14:11 Europe/Berlin] PHP Warning:  Undefined array key "admin" in C:\xampp\htdocs\app-proyecto\controllers\session.php on line 182
+[15-Jun-2021 16:14:11 Europe/Berlin] success=6bc5c24343d1e5af9f5e731337081c3d
+[15-Jun-2021 16:14:11 Europe/Berlin] Redirigiendo a:http://localhost/app-proyecto/?success=6bc5c24343d1e5af9f5e731337081c3d
+[15-Jun-2021 16:14:11 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:14:11 Europe/Berlin] APP::construct-> no hay controlador especificado
+[15-Jun-2021 16:14:11 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:14:11 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:14:11 Europe/Berlin] id user es 2
+[15-Jun-2021 16:14:11 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:14:11 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:14:11 Europe/Berlin] Se obtuvo la pagina actual->?success=6bc5c24343d1e5af9f5e731337081c3d
+[15-Jun-2021 16:14:11 Europe/Berlin] Se retorno el valor->?success=6bc5c24343d1e5af9f5e731337081c3d
+[15-Jun-2021 16:14:11 Europe/Berlin] isPublic()-> URL Obtenida es ->''
+[15-Jun-2021 16:14:11 Europe/Berlin] isPublic()->pagina publica
+[15-Jun-2021 16:14:11 Europe/Berlin] redirectDefaultSiteByRole()----> /dashboard
+[15-Jun-2021 16:14:11 Europe/Berlin] Location:http://localhost/app-proyecto/dashboard
+[15-Jun-2021 16:14:11 Europe/Berlin] Main::construct-> inicio de Main
+[15-Jun-2021 16:14:11 Europe/Berlin] APP::URL Inicial: controllers/main.php
+[15-Jun-2021 16:14:11 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:14:11 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[15-Jun-2021 16:14:11 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[15-Jun-2021 16:14:11 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:14:11 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:14:11 Europe/Berlin] id user es 2
+[15-Jun-2021 16:14:11 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:14:11 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:14:11 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[15-Jun-2021 16:14:11 Europe/Berlin] Se retorno el valor->dashboard
+[15-Jun-2021 16:14:11 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[15-Jun-2021 16:14:11 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:14:11 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:14:11 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[15-Jun-2021 16:14:11 Europe/Berlin] Se retorno el valor->dashboard
+[15-Jun-2021 16:14:11 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[15-Jun-2021 16:14:11 Europe/Berlin] id user es 2
+[15-Jun-2021 16:14:11 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[15-Jun-2021 16:14:11 Europe/Berlin] Render basico -> dashboard
+[15-Jun-2021 16:14:11 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[15-Jun-2021 16:14:13 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:14:13 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[15-Jun-2021 16:14:13 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:14:15 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:14:15 Europe/Berlin] APP::URL Inicial: controllers/listarticle.php
+[15-Jun-2021 16:14:15 Europe/Berlin] Existe el controlador -> requiriendo controllers/listarticle.php
+[15-Jun-2021 16:14:15 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:14:15 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:14:15 Europe/Berlin] id user es 2
+[15-Jun-2021 16:14:16 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:14:16 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:14:16 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[15-Jun-2021 16:14:16 Europe/Berlin] Se retorno el valor->listarticle
+[15-Jun-2021 16:14:16 Europe/Berlin] isPublic()-> URL Obtenida es ->'listarticle'
+[15-Jun-2021 16:14:16 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:14:16 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:14:16 Europe/Berlin] Se obtuvo la pagina actual->listarticle
+[15-Jun-2021 16:14:16 Europe/Berlin] Se retorno el valor->listarticle
+[15-Jun-2021 16:14:16 Europe/Berlin] isAuthorized() -> currentUrl: listarticle
+[15-Jun-2021 16:14:16 Europe/Berlin] id user es 2
+[15-Jun-2021 16:14:16 Europe/Berlin] AssistantDashboard::construct-> inicio de login
+[15-Jun-2021 16:14:16 Europe/Berlin] Render basico -> listarticle
+[15-Jun-2021 16:16:16 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:16:16 Europe/Berlin] APP::URL Inicial: controllers/accountestudiante.php
+[15-Jun-2021 16:16:16 Europe/Berlin] Existe el controlador -> requiriendo controllers/accountestudiante.php
+[15-Jun-2021 16:16:16 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:16:16 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:16:16 Europe/Berlin] id user es 2
+[15-Jun-2021 16:16:16 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:16:16 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:16:16 Europe/Berlin] Se obtuvo la pagina actual->accountestudiante
+[15-Jun-2021 16:16:16 Europe/Berlin] Se retorno el valor->accountestudiante
+[15-Jun-2021 16:16:16 Europe/Berlin] isPublic()-> URL Obtenida es ->'accountestudiante'
+[15-Jun-2021 16:16:16 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:16:16 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:16:16 Europe/Berlin] Se obtuvo la pagina actual->accountestudiante
+[15-Jun-2021 16:16:16 Europe/Berlin] Se retorno el valor->accountestudiante
+[15-Jun-2021 16:16:16 Europe/Berlin] isAuthorized() -> currentUrl: accountestudiante
+[15-Jun-2021 16:16:16 Europe/Berlin] redirectDefaultSiteByRole()----> /dashboard
+[15-Jun-2021 16:16:16 Europe/Berlin] Location:http://localhost/app-proyecto/dashboard
+[15-Jun-2021 16:16:16 Europe/Berlin] id user es 2
+[15-Jun-2021 16:16:16 Europe/Berlin] Cree nuevo user
+[15-Jun-2021 16:16:16 Europe/Berlin] Account::construct-> inicio de myAccountAssistant
+[15-Jun-2021 16:16:16 Europe/Berlin] Render basico -> accountestudiante
+[15-Jun-2021 16:16:16 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:16:16 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[15-Jun-2021 16:16:16 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[15-Jun-2021 16:16:16 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:16:16 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:16:16 Europe/Berlin] id user es 2
+[15-Jun-2021 16:16:16 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:16:16 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:16:16 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[15-Jun-2021 16:16:16 Europe/Berlin] Se retorno el valor->dashboard
+[15-Jun-2021 16:16:16 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[15-Jun-2021 16:16:16 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:16:16 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:16:16 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[15-Jun-2021 16:16:16 Europe/Berlin] Se retorno el valor->dashboard
+[15-Jun-2021 16:16:16 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[15-Jun-2021 16:16:16 Europe/Berlin] id user es 2
+[15-Jun-2021 16:16:16 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[15-Jun-2021 16:16:16 Europe/Berlin] Render basico -> dashboard
+[15-Jun-2021 16:16:16 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[15-Jun-2021 16:16:17 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:16:17 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[15-Jun-2021 16:16:17 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:16:31 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:16:31 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[15-Jun-2021 16:16:31 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[15-Jun-2021 16:16:31 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:16:31 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:16:31 Europe/Berlin] id user es 2
+[15-Jun-2021 16:16:31 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:16:31 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:16:31 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[15-Jun-2021 16:16:31 Europe/Berlin] Se retorno el valor->dashboard
+[15-Jun-2021 16:16:31 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[15-Jun-2021 16:16:31 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:16:31 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:16:31 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[15-Jun-2021 16:16:31 Europe/Berlin] Se retorno el valor->dashboard
+[15-Jun-2021 16:16:31 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[15-Jun-2021 16:16:31 Europe/Berlin] id user es 2
+[15-Jun-2021 16:16:32 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[15-Jun-2021 16:16:32 Europe/Berlin] Render basico -> dashboard
+[15-Jun-2021 16:16:32 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[15-Jun-2021 16:16:32 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:16:32 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[15-Jun-2021 16:16:32 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:16:35 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:16:35 Europe/Berlin] APP::URL Inicial: controllers/account.php
+[15-Jun-2021 16:16:35 Europe/Berlin] Existe el controlador -> requiriendo controllers/account.php
+[15-Jun-2021 16:16:35 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:16:35 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:16:35 Europe/Berlin] id user es 2
+[15-Jun-2021 16:16:35 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:16:35 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:16:35 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:16:35 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:16:35 Europe/Berlin] isPublic()-> URL Obtenida es ->'account'
+[15-Jun-2021 16:16:35 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:16:35 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:16:35 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:16:35 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:16:35 Europe/Berlin] isAuthorized() -> currentUrl: account
+[15-Jun-2021 16:16:35 Europe/Berlin] id user es 2
+[15-Jun-2021 16:16:35 Europe/Berlin] Cree nuevo user
+[15-Jun-2021 16:16:35 Europe/Berlin] Account::construct-> inicio de myAccountAssistant
+[15-Jun-2021 16:16:35 Europe/Berlin] Render basico -> account
+[15-Jun-2021 16:16:35 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:16:35 Europe/Berlin] APP::URL Inicial: controllers/images.php
+[15-Jun-2021 16:16:35 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:16:35 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:16:35 Europe/Berlin] APP::URL Inicial: controllers/images.php
+[15-Jun-2021 16:16:35 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:16:42 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:16:42 Europe/Berlin] APP::URL Inicial: controllers/account.php
+[15-Jun-2021 16:16:42 Europe/Berlin] Existe el controlador -> requiriendo controllers/account.php
+[15-Jun-2021 16:16:42 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:16:42 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:16:42 Europe/Berlin] id user es 2
+[15-Jun-2021 16:16:42 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:16:42 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:16:42 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:16:42 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:16:42 Europe/Berlin] isPublic()-> URL Obtenida es ->'account'
+[15-Jun-2021 16:16:42 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:16:42 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:16:42 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:16:42 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:16:42 Europe/Berlin] isAuthorized() -> currentUrl: account
+[15-Jun-2021 16:16:42 Europe/Berlin] id user es 2
+[15-Jun-2021 16:16:42 Europe/Berlin] Cree nuevo user
+[15-Jun-2021 16:16:42 Europe/Berlin] Account::construct-> inicio de myAccountAssistant
+[15-Jun-2021 16:16:42 Europe/Berlin] APP:: ruta actual sin parametros -> upload
+[15-Jun-2021 16:17:24 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:17:24 Europe/Berlin] APP::URL Inicial: controllers/account.php
+[15-Jun-2021 16:17:24 Europe/Berlin] Existe el controlador -> requiriendo controllers/account.php
+[15-Jun-2021 16:17:24 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:17:24 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:17:24 Europe/Berlin] id user es 2
+[15-Jun-2021 16:17:24 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:17:24 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:17:24 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:17:24 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:17:24 Europe/Berlin] isPublic()-> URL Obtenida es ->'account'
+[15-Jun-2021 16:17:24 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:17:24 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:17:24 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:17:24 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:17:24 Europe/Berlin] isAuthorized() -> currentUrl: account
+[15-Jun-2021 16:17:24 Europe/Berlin] id user es 2
+[15-Jun-2021 16:17:24 Europe/Berlin] Cree nuevo user
+[15-Jun-2021 16:17:24 Europe/Berlin] Account::construct-> inicio de myAccountAssistant
+[15-Jun-2021 16:17:24 Europe/Berlin] Render basico -> account
+[15-Jun-2021 16:17:24 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:17:24 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:17:24 Europe/Berlin] APP::URL Inicial: controllers/images.php
+[15-Jun-2021 16:17:24 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:17:24 Europe/Berlin] APP::URL Inicial: controllers/images.php
+[15-Jun-2021 16:17:24 Europe/Berlin] Errores::construct-> se inicio un error
+[15-Jun-2021 16:17:28 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:17:28 Europe/Berlin] APP::URL Inicial: controllers/account.php
+[15-Jun-2021 16:17:28 Europe/Berlin] Existe el controlador -> requiriendo controllers/account.php
+[15-Jun-2021 16:17:28 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:17:28 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:17:28 Europe/Berlin] id user es 2
+[15-Jun-2021 16:17:29 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:17:29 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:17:29 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:17:29 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:17:29 Europe/Berlin] isPublic()-> URL Obtenida es ->'account'
+[15-Jun-2021 16:17:29 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:17:29 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:17:29 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:17:29 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:17:29 Europe/Berlin] isAuthorized() -> currentUrl: account
+[15-Jun-2021 16:17:29 Europe/Berlin] id user es 2
+[15-Jun-2021 16:17:29 Europe/Berlin] Cree nuevo user
+[15-Jun-2021 16:17:29 Europe/Berlin] Account::construct-> inicio de myAccountAssistant
+[15-Jun-2021 16:17:29 Europe/Berlin] APP:: ruta actual sin parametros -> upload
+[15-Jun-2021 16:18:27 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:18:27 Europe/Berlin] APP::URL Inicial: controllers/account.php
+[15-Jun-2021 16:18:27 Europe/Berlin] Existe el controlador -> requiriendo controllers/account.php
+[15-Jun-2021 16:18:27 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:18:27 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:18:27 Europe/Berlin] id user es 2
+[15-Jun-2021 16:18:27 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:18:27 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:18:27 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:18:27 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:18:27 Europe/Berlin] isPublic()-> URL Obtenida es ->'account'
+[15-Jun-2021 16:18:27 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:18:27 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:18:27 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:18:27 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:18:27 Europe/Berlin] isAuthorized() -> currentUrl: account
+[15-Jun-2021 16:18:27 Europe/Berlin] id user es 2
+[15-Jun-2021 16:18:27 Europe/Berlin] Cree nuevo user
+[15-Jun-2021 16:18:27 Europe/Berlin] Account::construct-> inicio de myAccountAssistant
+[15-Jun-2021 16:18:27 Europe/Berlin] APP:: ruta actual sin parametros -> upload
+[15-Jun-2021 16:18:31 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:18:31 Europe/Berlin] APP::URL Inicial: controllers/account.php
+[15-Jun-2021 16:18:31 Europe/Berlin] Existe el controlador -> requiriendo controllers/account.php
+[15-Jun-2021 16:18:31 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:18:31 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:18:31 Europe/Berlin] id user es 2
+[15-Jun-2021 16:18:31 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:18:31 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:18:31 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:18:31 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:18:31 Europe/Berlin] isPublic()-> URL Obtenida es ->'account'
+[15-Jun-2021 16:18:31 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:18:31 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:18:31 Europe/Berlin] Se obtuvo la pagina actual->account
+[15-Jun-2021 16:18:31 Europe/Berlin] Se retorno el valor->account
+[15-Jun-2021 16:18:31 Europe/Berlin] isAuthorized() -> currentUrl: account
+[15-Jun-2021 16:18:31 Europe/Berlin] id user es 2
+[15-Jun-2021 16:18:31 Europe/Berlin] Cree nuevo user
+[15-Jun-2021 16:18:31 Europe/Berlin] Account::construct-> inicio de myAccountAssistant
+[15-Jun-2021 16:18:31 Europe/Berlin] APP:: ruta actual sin parametros -> upload
+[15-Jun-2021 16:18:36 Europe/Berlin] Inicio de app web
+[15-Jun-2021 16:18:36 Europe/Berlin] APP::URL Inicial: controllers/dashboard.php
+[15-Jun-2021 16:18:36 Europe/Berlin] Existe el controlador -> requiriendo controllers/dashboard.php
+[15-Jun-2021 16:18:36 Europe/Berlin] Cree nueva sesion
+[15-Jun-2021 16:18:36 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[15-Jun-2021 16:18:36 Europe/Berlin] id user es 2
+[15-Jun-2021 16:18:36 Europe/Berlin] existSession()-> VALIDANDO ROL:: 0
+[15-Jun-2021 16:18:36 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:18:36 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[15-Jun-2021 16:18:36 Europe/Berlin] Se retorno el valor->dashboard
+[15-Jun-2021 16:18:36 Europe/Berlin] isPublic()-> URL Obtenida es ->'dashboard'
+[15-Jun-2021 16:18:36 Europe/Berlin] isPublic()->pagina no es publica
+[15-Jun-2021 16:18:36 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[15-Jun-2021 16:18:36 Europe/Berlin] Se obtuvo la pagina actual->dashboard
+[15-Jun-2021 16:18:36 Europe/Berlin] Se retorno el valor->dashboard
+[15-Jun-2021 16:18:36 Europe/Berlin] isAuthorized() -> currentUrl: dashboard
+[15-Jun-2021 16:18:36 Europe/Berlin] id user es 2
+[15-Jun-2021 16:18:36 Europe/Berlin] AdminDashboard::construct-> inicio de login
+[15-Jun-2021 16:18:36 Europe/Berlin] Render basico -> dashboard
+[15-Jun-2021 16:18:36 Europe/Berlin] Dashboard::construct-> carga vista dashboard
+[16-Jun-2021 03:07:01 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:07:01 Europe/Berlin] APP::construct-> no hay controlador especificado
+[16-Jun-2021 03:07:01 Europe/Berlin] Cree nueva sesion
+[16-Jun-2021 03:07:01 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[16-Jun-2021 03:07:01 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:07:01 Europe/Berlin] Se obtuvo la pagina actual->
+[16-Jun-2021 03:07:01 Europe/Berlin] Se retorno el valor->
+[16-Jun-2021 03:07:01 Europe/Berlin] isPublic()-> URL Obtenida es ->''
+[16-Jun-2021 03:07:01 Europe/Berlin] isPublic()->pagina publica
+[16-Jun-2021 03:07:01 Europe/Berlin] Main::construct-> inicio de Main
+[16-Jun-2021 03:07:01 Europe/Berlin] APP::URL Inicial: controllers/main.php
+[16-Jun-2021 03:07:01 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:07:01 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:07:01 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:07:01 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:07:01 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:07:01 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:07:01 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:07:01 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:07:01 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:07:05 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:07:05 Europe/Berlin] APP::URL Inicial: controllers/login.php
+[16-Jun-2021 03:07:05 Europe/Berlin] Existe el controlador -> requiriendo controllers/login.php
+[16-Jun-2021 03:07:05 Europe/Berlin] Cree nueva sesion
+[16-Jun-2021 03:07:05 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[16-Jun-2021 03:07:05 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:07:05 Europe/Berlin] Se obtuvo la pagina actual->login
+[16-Jun-2021 03:07:05 Europe/Berlin] Se retorno el valor->login
+[16-Jun-2021 03:07:05 Europe/Berlin] isPublic()-> URL Obtenida es ->'login'
+[16-Jun-2021 03:07:05 Europe/Berlin] isPublic()->pagina publica
+[16-Jun-2021 03:07:05 Europe/Berlin] Login::construct-> inicio de login
+[16-Jun-2021 03:07:05 Europe/Berlin] Render basico -> login
+[16-Jun-2021 03:07:05 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:07:05 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:07:05 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:07:05 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:07:05 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:07:05 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:07:05 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:07:05 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:07:05 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:13:29 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:13:29 Europe/Berlin] APP::URL Inicial: controllers/signup.php
+[16-Jun-2021 03:13:29 Europe/Berlin] Existe el controlador -> requiriendo controllers/signup.php
+[16-Jun-2021 03:13:29 Europe/Berlin] Cree nueva sesion
+[16-Jun-2021 03:13:29 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[16-Jun-2021 03:13:29 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:13:29 Europe/Berlin] Se obtuvo la pagina actual->signup
+[16-Jun-2021 03:13:29 Europe/Berlin] Se retorno el valor->signup
+[16-Jun-2021 03:13:29 Europe/Berlin] isPublic()-> URL Obtenida es ->'signup'
+[16-Jun-2021 03:13:29 Europe/Berlin] isPublic()->pagina publica
+[16-Jun-2021 03:13:29 Europe/Berlin] Render basico -> signup
+[16-Jun-2021 03:13:29 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:13:29 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:13:29 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:13:29 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:13:29 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:13:29 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:13:29 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:13:29 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:13:29 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:14:39 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:14:39 Europe/Berlin] APP::URL Inicial: controllers/signup.php
+[16-Jun-2021 03:14:39 Europe/Berlin] Existe el controlador -> requiriendo controllers/signup.php
+[16-Jun-2021 03:14:39 Europe/Berlin] Cree nueva sesion
+[16-Jun-2021 03:14:39 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[16-Jun-2021 03:14:39 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:14:39 Europe/Berlin] Se obtuvo la pagina actual->signup
+[16-Jun-2021 03:14:39 Europe/Berlin] Se retorno el valor->signup
+[16-Jun-2021 03:14:39 Europe/Berlin] isPublic()-> URL Obtenida es ->'signup'
+[16-Jun-2021 03:14:39 Europe/Berlin] isPublic()->pagina publica
+[16-Jun-2021 03:14:39 Europe/Berlin] APP:: ruta actual sin parametros -> newUser
+[16-Jun-2021 03:14:39 Europe/Berlin] CONTROLLER::existPOST-> Existe el parametro documento
+[16-Jun-2021 03:14:39 Europe/Berlin] CONTROLLER::existPOST-> Existe el parametro password
+[16-Jun-2021 03:14:40 Europe/Berlin] success=844e2da7dc81e14a2cae36fe7fd19e0e
+[16-Jun-2021 03:14:40 Europe/Berlin] Redirigiendo a:http://localhost/app-proyecto/login?success=844e2da7dc81e14a2cae36fe7fd19e0e
+[16-Jun-2021 03:14:40 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:14:40 Europe/Berlin] APP::URL Inicial: controllers/login.php
+[16-Jun-2021 03:14:40 Europe/Berlin] Existe el controlador -> requiriendo controllers/login.php
+[16-Jun-2021 03:14:40 Europe/Berlin] Cree nueva sesion
+[16-Jun-2021 03:14:40 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[16-Jun-2021 03:14:40 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:14:40 Europe/Berlin] Se obtuvo la pagina actual->login?success=844e2da7dc81e14a2cae36fe7fd19e0e
+[16-Jun-2021 03:14:40 Europe/Berlin] Se retorno el valor->login?success=844e2da7dc81e14a2cae36fe7fd19e0e
+[16-Jun-2021 03:14:40 Europe/Berlin] isPublic()-> URL Obtenida es ->'login'
+[16-Jun-2021 03:14:40 Europe/Berlin] isPublic()->pagina publica
+[16-Jun-2021 03:14:40 Europe/Berlin] Login::construct-> inicio de login
+[16-Jun-2021 03:14:40 Europe/Berlin] Render basico -> login
+[16-Jun-2021 03:14:40 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:14:40 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:14:40 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:14:40 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:14:40 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:14:40 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:14:40 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:14:40 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:14:40 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:14:46 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:14:46 Europe/Berlin] APP::URL Inicial: controllers/login.php
+[16-Jun-2021 03:14:46 Europe/Berlin] Existe el controlador -> requiriendo controllers/login.php
+[16-Jun-2021 03:14:46 Europe/Berlin] Cree nueva sesion
+[16-Jun-2021 03:14:46 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[16-Jun-2021 03:14:46 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:14:46 Europe/Berlin] Se obtuvo la pagina actual->login
+[16-Jun-2021 03:14:46 Europe/Berlin] Se retorno el valor->login
+[16-Jun-2021 03:14:46 Europe/Berlin] isPublic()-> URL Obtenida es ->'login'
+[16-Jun-2021 03:14:46 Europe/Berlin] isPublic()->pagina publica
+[16-Jun-2021 03:14:46 Europe/Berlin] Login::construct-> inicio de login
+[16-Jun-2021 03:14:46 Europe/Berlin] APP:: ruta actual sin parametros -> authenticate
+[16-Jun-2021 03:14:46 Europe/Berlin] CONTROLLER::existPOST-> Existe el parametro email
+[16-Jun-2021 03:14:46 Europe/Berlin] CONTROLLER::existPOST-> Existe el parametro password
+[16-Jun-2021 03:14:46 Europe/Berlin] LoginModel::login() -> el row count es :1
+[16-Jun-2021 03:14:46 Europe/Berlin] LoginModel::login() -> return user == new User()
+[16-Jun-2021 03:14:46 Europe/Berlin] Accion exitosa, estas logeado
+[16-Jun-2021 03:14:46 Europe/Berlin] el rol ->estudiante
+[16-Jun-2021 03:14:46 Europe/Berlin] PHP Warning:  Undefined array key "estudiante" in C:\xampp\htdocs\app-proyecto\controllers\session.php on line 186
+[16-Jun-2021 03:14:46 Europe/Berlin] success=6bc5c24343d1e5af9f5e731337081c3d
+[16-Jun-2021 03:14:46 Europe/Berlin] Redirigiendo a:http://localhost/app-proyecto/?success=6bc5c24343d1e5af9f5e731337081c3d
+[16-Jun-2021 03:14:46 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:14:46 Europe/Berlin] APP::construct-> no hay controlador especificado
+[16-Jun-2021 03:14:46 Europe/Berlin] Cree nueva sesion
+[16-Jun-2021 03:14:46 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[16-Jun-2021 03:14:46 Europe/Berlin] id user es 30
+[16-Jun-2021 03:14:46 Europe/Berlin] existSession()-> VALIDANDO ROL:: 2
+[16-Jun-2021 03:14:46 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:14:46 Europe/Berlin] Se obtuvo la pagina actual->?success=6bc5c24343d1e5af9f5e731337081c3d
+[16-Jun-2021 03:14:46 Europe/Berlin] Se retorno el valor->?success=6bc5c24343d1e5af9f5e731337081c3d
+[16-Jun-2021 03:14:46 Europe/Berlin] isPublic()-> URL Obtenida es ->''
+[16-Jun-2021 03:14:46 Europe/Berlin] isPublic()->pagina publica
+[16-Jun-2021 03:14:46 Europe/Berlin] redirectDefaultSiteByRole()----> /estudiantedashboard
+[16-Jun-2021 03:14:46 Europe/Berlin] Location:http://localhost/app-proyecto/estudiantedashboard
+[16-Jun-2021 03:14:46 Europe/Berlin] Main::construct-> inicio de Main
+[16-Jun-2021 03:14:46 Europe/Berlin] APP::URL Inicial: controllers/main.php
+[16-Jun-2021 03:14:46 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:14:46 Europe/Berlin] APP::URL Inicial: controllers/estudiantedashboard.php
+[16-Jun-2021 03:14:46 Europe/Berlin] Existe el controlador -> requiriendo controllers/estudiantedashboard.php
+[16-Jun-2021 03:14:46 Europe/Berlin] Cree nueva sesion
+[16-Jun-2021 03:14:46 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[16-Jun-2021 03:14:46 Europe/Berlin] id user es 30
+[16-Jun-2021 03:14:47 Europe/Berlin] existSession()-> VALIDANDO ROL:: 2
+[16-Jun-2021 03:14:47 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:14:47 Europe/Berlin] Se obtuvo la pagina actual->estudiantedashboard
+[16-Jun-2021 03:14:47 Europe/Berlin] Se retorno el valor->estudiantedashboard
+[16-Jun-2021 03:14:47 Europe/Berlin] isPublic()-> URL Obtenida es ->'estudiantedashboard'
+[16-Jun-2021 03:14:47 Europe/Berlin] isPublic()->pagina no es publica
+[16-Jun-2021 03:14:47 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:14:47 Europe/Berlin] Se obtuvo la pagina actual->estudiantedashboard
+[16-Jun-2021 03:14:47 Europe/Berlin] Se retorno el valor->estudiantedashboard
+[16-Jun-2021 03:14:47 Europe/Berlin] isAuthorized() -> currentUrl: estudiantedashboard
+[16-Jun-2021 03:14:47 Europe/Berlin] id user es 30
+[16-Jun-2021 03:14:47 Europe/Berlin] AssistantDashboard::construct-> inicio de login
+[16-Jun-2021 03:14:47 Europe/Berlin] Render basico -> estudiantedashboard
+[16-Jun-2021 03:14:47 Europe/Berlin] el id30
+[16-Jun-2021 03:14:47 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:14:47 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:14:47 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:15:50 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:15:50 Europe/Berlin] APP::URL Inicial: controllers/accountestudiante.php
+[16-Jun-2021 03:15:50 Europe/Berlin] Existe el controlador -> requiriendo controllers/accountestudiante.php
+[16-Jun-2021 03:15:50 Europe/Berlin] Cree nueva sesion
+[16-Jun-2021 03:15:50 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[16-Jun-2021 03:15:50 Europe/Berlin] id user es 30
+[16-Jun-2021 03:15:50 Europe/Berlin] existSession()-> VALIDANDO ROL:: 2
+[16-Jun-2021 03:15:50 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:15:50 Europe/Berlin] Se obtuvo la pagina actual->accountestudiante
+[16-Jun-2021 03:15:50 Europe/Berlin] Se retorno el valor->accountestudiante
+[16-Jun-2021 03:15:50 Europe/Berlin] isPublic()-> URL Obtenida es ->'accountestudiante'
+[16-Jun-2021 03:15:50 Europe/Berlin] isPublic()->pagina no es publica
+[16-Jun-2021 03:15:50 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:15:50 Europe/Berlin] Se obtuvo la pagina actual->accountestudiante
+[16-Jun-2021 03:15:50 Europe/Berlin] Se retorno el valor->accountestudiante
+[16-Jun-2021 03:15:50 Europe/Berlin] isAuthorized() -> currentUrl: accountestudiante
+[16-Jun-2021 03:15:50 Europe/Berlin] id user es 30
+[16-Jun-2021 03:15:50 Europe/Berlin] Cree nuevo user
+[16-Jun-2021 03:15:50 Europe/Berlin] Account::construct-> inicio de myAccountAssistant
+[16-Jun-2021 03:15:50 Europe/Berlin] Render basico -> accountestudiante
+[16-Jun-2021 03:15:50 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:15:50 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:15:50 Europe/Berlin] APP::URL Inicial: controllers/images.php
+[16-Jun-2021 03:15:50 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:15:50 Europe/Berlin] APP::URL Inicial: controllers/images.php
+[16-Jun-2021 03:15:50 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:15:50 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:15:50 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:15:50 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:15:50 Europe/Berlin] APP::URL Inicial: controllers/assets.php
+[16-Jun-2021 03:15:50 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:15:50 Europe/Berlin] Errores::construct-> se inicio un error
+[16-Jun-2021 03:15:58 Europe/Berlin] Inicio de app web
+[16-Jun-2021 03:15:58 Europe/Berlin] APP::URL Inicial: controllers/accountestudiante.php
+[16-Jun-2021 03:15:58 Europe/Berlin] Existe el controlador -> requiriendo controllers/accountestudiante.php
+[16-Jun-2021 03:15:58 Europe/Berlin] Cree nueva sesion
+[16-Jun-2021 03:15:58 Europe/Berlin] SESSION_CONTROLLER:: validatesession()
+[16-Jun-2021 03:15:58 Europe/Berlin] id user es 30
+[16-Jun-2021 03:15:58 Europe/Berlin] existSession()-> VALIDANDO ROL:: 2
+[16-Jun-2021 03:15:58 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:15:58 Europe/Berlin] Se obtuvo la pagina actual->accountestudiante
+[16-Jun-2021 03:15:58 Europe/Berlin] Se retorno el valor->accountestudiante
+[16-Jun-2021 03:15:58 Europe/Berlin] isPublic()-> URL Obtenida es ->'accountestudiante'
+[16-Jun-2021 03:15:58 Europe/Berlin] isPublic()->pagina no es publica
+[16-Jun-2021 03:15:58 Europe/Berlin] SESSION_CONTROLLER::getCurrentPage()
+[16-Jun-2021 03:15:58 Europe/Berlin] Se obtuvo la pagina actual->accountestudiante
+[16-Jun-2021 03:15:58 Europe/Berlin] Se retorno el valor->accountestudiante
+[16-Jun-2021 03:15:58 Europe/Berlin] isAuthorized() -> currentUrl: accountestudiante
+[16-Jun-2021 03:15:58 Europe/Berlin] id user es 30
+[16-Jun-2021 03:15:58 Europe/Berlin] Cree nuevo user
+[16-Jun-2021 03:15:58 Europe/Berlin] Account::construct-> inicio de myAccountAssistant
+[16-Jun-2021 03:15:58 Europe/Berlin] APP:: ruta actual sin parametros -> upload
+[16-Jun-2021 03:15:58 Europe/Berlin] PHP Warning:  unlink(C:/xampp/htdocs/app-proyecto/): Is a directory in C:\xampp\htdocs\app-proyecto\models\userModel.php on line 120

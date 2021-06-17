@@ -1,0 +1,133 @@
+#text-index {
+  padding-top: 12%;
+  text-shadow: 2px 2px 2px white;
+  color:  black;
+  text-align: center;
+}
+.index-a {
+  text-shadow: 1px 2px 2px white;
+  color:   black;
+  font-size: 150%;
+}
+
+.index-b {
+  text-shadow: 2px 2px 2px black;
+  color: whitesmoke;
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: none;
+  color: darkcyan;
+  
+}
+#fondo {
+  background-image: url(../images/5.jpg);
+  width: 100vw;
+  height: 100vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #666;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow:hidden;
+
+}
+
+.inner {
+  width: 50%;
+  height: 4%;
+  margin: 0 auto;
+  padding-top: 1%;
+}
+.formulario {
+  width: 400px;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 30px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  border-radius: 4px;
+  font-family: "calibri";
+  color: white;
+  box-shadow: 7px 13px 37px #111B54;;
+}
+.navbar {
+  background-color: #F3F1F1;
+}
+.form-title{
+color: #111B54;
+text-shadow: 1px 2px 2px white;
+}
+.p-title{
+  color: #111B54;
+  text-shadow: 1px 2px 2px white;
+}
+#logo {
+  width: 180px;
+  height: 90px;
+}
+
+.controls {
+  width: 100%;
+ 
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #111B54;
+  font-family: "calibri";
+  font-size: 18px;
+  color: white;
+}
+
+.formulario p {
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+}
+#login{
+  background-image: url(../images/6.jpg);
+  width: 100vw;
+  height: 100vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #666;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#signup-main{
+  background-image: url(../images/8.jpg);
+  width: 100vw;
+  height: 100vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #666;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#principal,
+a {
+  text-align: center;
+  text-shadow: 1px 1px 1px black
+}
+a {
+  text-align: center !important;
+}
+::-webkit-scrollbar {display: none;}
+

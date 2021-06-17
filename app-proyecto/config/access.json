@@ -1,0 +1,76 @@
+{
+  "sites": [
+    {
+      "site": "",
+      "access": "public",
+      "role": ""
+    },
+    {
+      "site": "login",
+      "access": "public",
+      "role": ""
+    },
+    {
+      "site": "signup",
+      "access": "public",
+      "role": ""
+    },
+    {
+      "site": "estudiantedashboard",
+      "access": "private",
+      "role": "estudiante"
+    },
+    {
+      "site": "dashboard",
+      "access": "private",
+      "role": "admin"
+    }
+    ,
+    {
+      "site": "calificadordashboard",
+      "access": "private",
+      "role": "calificador"
+    }
+    ,
+    {
+      "site": "accountcalificador",
+      "access": "private",
+      "role": "calificador"
+    },
+    {
+      "site": "accountestudiante",
+      "access": "private",
+      "role": "estudiante"
+    },
+    {
+      "site": "account",
+      "access": "private",
+      "role": "admin"
+    }
+    ,
+    {
+      "site": "newuser",
+      "access": "private",
+      "role": "admin"
+    }
+    ,
+    {
+      "site": "addarticle",
+      "access": "private",
+      "role": "estudiante"
+    }
+    ,
+    {
+      "site": "listarticle",
+      "access": "private",
+      "role": "admin"
+    }
+        
+  ],
+  "default-sites": [
+    { "admin": "dashboard",
+      "calificador":"calificadordashboard",
+      "estudiante":"estudiantedashboard"      
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+Evaluación de artículos.
+
+1. Crear el envío de un artículo a evaluación. El usuario debe especificar la siguiente información del artículo (titulo, palabras clave, resumen, tópico, autores y un archivo con el texto completo), además de la fecha de envío y se guarda con estado pendiente. (REALIZADO)
+
+2. Registrar la evaluación del artículo por parte del administrador, el cual decide si lo acepta, lo rechaza, lo devuelve o lo envía a evaluación, se debe guardar la fecha de evaluación junto con las observaciones dadas por el administrador. (NO REALIZADO)
+
+3. Modificar los artículos que han sido registrados en el sistema. Se pueden modificar sólo los artículos que están en estado pendiente. El administrador puede modificar los artículos que se encuentren en cualquier estado. (REALIZADO)
+
+4. Eliminar los artículos. Se pueden eliminar sólo los artículos que están en estado pendiente. (REGULAR)
+
+5. Asignar evaluador del articulo, el administrador puede asignar varios evaluadores para el artículo. El estado del artículo se cambia a "En evaluación". (REGULAR)
+
+6. Registrar la evaluación del artículo por parte del evaluador, el evaluador sube un archivo con las correcciones del artículo, también ingresa unas observaciones o correcciones y de un veredicto sobre el artículo si es aceptado, rechazado o devuelto (correcciones), se debe guardar la fecha y hora del registro de la evaluación.
+
+7. Generar una bandeja de entrada para el autor donde aparezcan los artículos que ha enviado, se pueda consultar su estado con los detalles del proceso de evaluación: cuándo fue enviado a evaluación, evaluación dada por el administrador, documentos de evaluación subidos por los evaluadores, observaciones y correcciones sugeridas. (REALIZADO)
+
+8. Generar una bandeja de entrada para el administrador donde aparezcan los articulos que han sido enviados a evaluación (estado pendiente) junto con las opciones de registrar evaluación, asignar evaluadores y ver detalles del artículo. (REALIZADO)
+
+9. Iniciar sesión por medio del correo electrónico y una contraseña. (REALIZADO)
+
+10. Registrarse al sistema, se registran los datos básicos del usuario (tipo documento, numero documento, nombre, apellido, telefono, email, password de inicio de sesion, institución o dependencia, tipo de usuario (1. administrador, 2. autor, 3. evaluador)), un evaluador puede ser autor. (REALIZADO)
